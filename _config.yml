@@ -1,11 +1,3 @@
-title: "TechTinkering - Retro Computers, Programming, General Technical Tinkering"
-description: > # this means to ignore newlines until "baseurl:"
-  Retro Computers, Programming, General Technical Tinkering.
-destination: ../gh-pages
-lsi:         false
-port: 4000
+name: Hank Quinlan, Horrible Cop
 markdown: kramdown
-permalink:   /:year/:month/:day/:title/
-exclude: [design, scripts, README.md]
-
-tag_title_prefix: "Articles Tagged With: "
+permalink: /blog/:year/:month/:day/:title
